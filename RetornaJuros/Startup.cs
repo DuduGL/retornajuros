@@ -35,8 +35,6 @@ namespace RetornaJuros
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
-
             app.UseOpenApi();
             app.UseSwaggerUi3();
 

@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RetornaJuros",
-    "\\RetornaJuros.Test",
-    "\\RetornaJuros\\Controllers"
+    "\\RetornaJuros"
   ],
-  "SelectedNode": "\\RetornaJuros\\Controllers\\RetornaJurosController.cs",
   "PreviewInSolutionExplorer": false
 }
