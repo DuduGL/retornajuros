@@ -34,3 +34,4 @@ C:\Projetos\RetornaJuros\RetornaJuros\obj\Debug\netcoreapp3.1\RetornaJuros.dll
 C:\Projetos\RetornaJuros\RetornaJuros\obj\Debug\netcoreapp3.1\RetornaJuros.pdb
 C:\Projetos\RetornaJuros\RetornaJuros\obj\Debug\netcoreapp3.1\RetornaJuros.genruntimeconfig.cache
 C:\Projetos\RetornaJuros\RetornaJuros\obj\Debug\netcoreapp3.1\RetornaJuros.csprojAssemblyReference.cache
+C:\Projetos\RetornaJuros\RetornaJuros\bin\Debug\netcoreapp3.1\Dockerfile

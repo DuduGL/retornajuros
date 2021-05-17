@@ -114,3 +114,4 @@ C:\Projetos\RetornaJuros\RetornaJuros.Test\obj\Debug\netcoreapp3.1\RetornaJuros.
 C:\Projetos\RetornaJuros\RetornaJuros.Test\obj\Debug\netcoreapp3.1\RetornaJuros.Test.dll
 C:\Projetos\RetornaJuros\RetornaJuros.Test\obj\Debug\netcoreapp3.1\RetornaJuros.Test.pdb
 C:\Projetos\RetornaJuros\RetornaJuros.Test\obj\Debug\netcoreapp3.1\RetornaJuros.Test.genruntimeconfig.cache
+C:\Projetos\RetornaJuros\RetornaJuros.Test\bin\Debug\netcoreapp3.1\Dockerfile
