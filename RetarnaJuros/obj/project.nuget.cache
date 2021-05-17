@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLFGzGQtEeTYAXDgTl3Te4VU4TCSiH2zq+XIIA5ETCemH34W9si+9b3/ZKwjigNg8NziAScsyWQ//9CLtI/fiw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\RetornaJuros\\RetarnaJuros\\RetarnaJuros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
