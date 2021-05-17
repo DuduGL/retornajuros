@@ -6,7 +6,7 @@ namespace RetornaJuros.Services.Implementations
     {
         public decimal RetornaJuros()
         {
-            return juros;
+            return juros / 100;
         }
 
         private decimal juros => 1;

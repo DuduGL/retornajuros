@@ -24,17 +24,7 @@ namespace RetornaJuros.Test
             decimal juros = retornaJurosService.RetornaJuros();
 
             //Assert
-            Assert.AreEqual(juros, 1);
-        }
-
-        [TestMethod]
-        public void RetarnaJuros_Nao_Deve_Retornar_Diferente_De_1 ()
-        {
-            //Act
-            decimal juros = retornaJurosService.RetornaJuros();
-
-            //Assert
-            Assert.IsTrue(juros == 1);
+            Assert.AreEqual(juros, (decimal)0.01);
         }
     }
 }
